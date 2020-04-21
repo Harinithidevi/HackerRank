@@ -1,1 +1,1 @@
-# HackerRank
+# HackerRank BinaryGap solution
